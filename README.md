@@ -36,7 +36,7 @@ This is a simplified Airbnb clone designed to practice full-stack web developmen
 - Booking and payment flow (mocked).  
 - User reviews and ratings.  
 
-## API
+## API Security
 - **Auth API:** Handles login & signup.  
 - **Listings API:** CRUD operations for properties.  
 - **Booking API:** Reserve or cancel bookings.  
